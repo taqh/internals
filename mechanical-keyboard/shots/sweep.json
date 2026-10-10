@@ -1,0 +1,6 @@
+[["wait",300],["key","Escape"],["wait",500],["eval","document.activeElement.blur()"],["wait",200],
+ ["shot","shots/sw-1.png",null,4,[100,80,170,170]],
+ ["shot","shots/sw-2.png",null,4,[250,110,170,170]],
+ ["shot","shots/sw-3.png",null,4,[80,240,170,170]],
+ ["shot","shots/sw-4.png",null,4,[330,300,220,150]],
+ ["shot","shots/sw-5.png",null,4,[100,180,150,110]]]

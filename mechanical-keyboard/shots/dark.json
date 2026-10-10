@@ -1,0 +1,1 @@
+[["wait",300],["key","Escape"],["wait",300],["key","Home"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["wait",600],["eval","document.activeElement.blur()"],["wait",200],["shot","shots/dark-z.png",null,4,[200,120,180,190]]]

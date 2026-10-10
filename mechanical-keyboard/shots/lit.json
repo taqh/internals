@@ -1,0 +1,1 @@
+[["wait",300],["key","Escape"],["wait",300],["key","End"],["wait",600],["eval","document.activeElement.blur()"],["wait",200],["shot","shots/lit-full.png",null,2],["shot","shots/lit-mcu.png",null,6,[400,230,150,110]],["shot","shots/lit-gap.png",null,6,[200,230,150,110]]]

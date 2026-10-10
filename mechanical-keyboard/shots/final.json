@@ -1,0 +1,2 @@
+[["wait",300],["key","Escape"],["wait",500],["eval","document.activeElement.blur()"],["wait",200],["shot","shots/final-rest.png",null,2],
+ ["key","Home"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["wait",600],["eval","document.activeElement.blur()"],["wait",200],["shot","shots/final-pressed.png",null,2],["shot","shots/final-switch.png",null,4,[200,120,180,190]]]

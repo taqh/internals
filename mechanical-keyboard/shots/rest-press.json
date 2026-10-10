@@ -1,0 +1,5 @@
+[["wait",400],["key","Escape"],["wait",500],["shot","shots/z-rest.png",null,4,[200,130,170,190]],
+ ["key","End"],["wait",700],["shot","shots/z-press.png",null,4,[200,130,170,190]],
+ ["key","Home"],["wait",200],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["wait",600],["shot","shots/z-175.png",null,4,[200,130,170,190]],
+ ["key","ArrowDown"],["wait",600],["shot","shots/z-200.png",null,4,[200,130,170,190]],
+ ["shot","shots/full-200.png",null,2]]

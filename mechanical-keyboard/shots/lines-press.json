@@ -1,0 +1,1 @@
+[["wait",300],["key","Escape"],["wait",300],["key","End"],["wait",600],["lines","shots/lines-press.png"],["key","Home"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["wait",600],["lines"]]

@@ -1,0 +1,4 @@
+[["wait",400],["key","Escape"],["wait",500],["shot","shots/leaf-rest.png",null,8,[238,195,60,60]],
+ ["key","Home"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["wait",500],["shot","shots/leaf-100.png",null,8,[238,195,60,60]],
+ ["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["key","ArrowDown"],["wait",500],["shot","shots/leaf-200.png",null,8,[238,195,60,60]],
+ ["key","End"],["wait",500],["shot","shots/leaf-400.png",null,8,[238,195,60,60]]]

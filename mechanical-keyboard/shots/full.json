@@ -1,0 +1,1 @@
+[["wait",300],["key","Escape"],["wait",400],["shot","shots/full-rest.png",null,2],["key","End"],["wait",500],["shot","shots/full-press.png",null,2]]
